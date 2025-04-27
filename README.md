@@ -2,7 +2,7 @@
 
 I'm an AI explorer 🧠🚀 — fascinated by how machines think, act, and (hopefully) behave responsibly!
 
-I dive deep into **Agent-Based Modelling** in the context of **social networks**. I am also interested in **Responsive AI**. If AI had a conscience, I’d be the one teaching it😉
+I dive deep into **Agent-Based Modelling** in the context of **social networks**. I am also interested in **Responsive Recommendation**, which aims to address filter bubbles 🫧 caused by personalised recommendation algorithms.
 
 ## 🌌Introduce My Code Universe 
 ### Agent-based Modelling
