@@ -1,6 +1,6 @@
 ## Hi there :wave: Greeting from Yuxuan :smiley:
 
-I'm an AI explorer 🧠🚀 — fascinated by how machines think, act, and (hopefully) behave responsibly!
+I'm an AI explorer 🧠🚀 — fascinated by how machines think, act, interact, and behave responsibly!
 
 I dive deep into **Agent-Based Modelling** in the context of **social networks**. I am also interested in **Responsible Recommendation**, which aims to address filter bubbles 🫧 caused by personalised recommendation algorithms.
 
